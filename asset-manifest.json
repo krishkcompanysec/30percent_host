@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/30percent_host/static/css/main.9bfa2bb6.chunk.css",
+    "main.css": "/30percent_host/static/css/main.855dbf18.chunk.css",
     "main.js": "/30percent_host/static/js/main.3a34fead.chunk.js",
     "main.js.map": "/30percent_host/static/js/main.3a34fead.chunk.js.map",
     "runtime-main.js": "/30percent_host/static/js/runtime-main.da5e4f84.js",
@@ -12,7 +12,7 @@
     "static/js/3.b998a0a7.chunk.js.map": "/30percent_host/static/js/3.b998a0a7.chunk.js.map",
     "index.html": "/30percent_host/index.html",
     "static/css/2.1f208231.chunk.css.map": "/30percent_host/static/css/2.1f208231.chunk.css.map",
-    "static/css/main.9bfa2bb6.chunk.css.map": "/30percent_host/static/css/main.9bfa2bb6.chunk.css.map",
+    "static/css/main.855dbf18.chunk.css.map": "/30percent_host/static/css/main.855dbf18.chunk.css.map",
     "static/js/2.329ac90f.chunk.js.LICENSE.txt": "/30percent_host/static/js/2.329ac90f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/30percent_host/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.da5e4f84.js",
     "static/css/2.1f208231.chunk.css",
     "static/js/2.329ac90f.chunk.js",
-    "static/css/main.9bfa2bb6.chunk.css",
+    "static/css/main.855dbf18.chunk.css",
     "static/js/main.3a34fead.chunk.js"
   ]
 }
